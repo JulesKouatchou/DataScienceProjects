@@ -23,7 +23,7 @@ The tool performs the following tasks:
    - Create interactive visualization with weather information on each orbit land grid point.
 
 The tool runs through a Streamlit dasdboard. 
-It can complement the [NASA's Spot the Station] (https://www.nasa.gov/spot-the-station/) initiative
+It can complement the [NASA's Spot the Station](https://www.nasa.gov/spot-the-station/) initiative
 and can serve as an educational tool.
 
 The work was accepted for presentation at:
